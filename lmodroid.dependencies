@@ -1,0 +1,16 @@
+[
+  {
+    "repository": "LMODroid-Devices/device_nvidia_foster",
+    "target_path": "device/nvidia/foster"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_hardware_nvidia_platform_t210_batuu_kernel-dts",
+    "target_path": "hardware/nvidia/platform/t210/batuu/kernel-dts"
+  },
+  {
+    "remote": "lineage",
+    "repository": "android_hardware_nvidia_platform_t210_porg",
+    "target_path": "hardware/nvidia/platform/t210/porg"
+  }
+]
